@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\bin\Debug\net10.0\GestionTramites.exe
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\bin\Debug\net10.0\GestionTramites.deps.json
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\bin\Debug\net10.0\GestionTramites.runtimeconfig.json
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\bin\Debug\net10.0\GestionTramites.dll
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\bin\Debug\net10.0\GestionTramites.pdb
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\obj\Debug\net10.0\GestionTramites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\obj\Debug\net10.0\GestionTramites.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\obj\Debug\net10.0\GestionTramites.AssemblyInfo.cs
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\obj\Debug\net10.0\GestionTramites.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\obj\Debug\net10.0\GestionTramites.dll
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\obj\Debug\net10.0\refint\GestionTramites.dll
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\obj\Debug\net10.0\GestionTramites.pdb
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\obj\Debug\net10.0\GestionTramites.genruntimeconfig.cache
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\obj\Debug\net10.0\ref\GestionTramites.dll
+C:\Users\Admin\source\repos\GestionTramites\GestionTramites\obj\Debug\net10.0\GestionT.7E0CCB30.Up2Date
