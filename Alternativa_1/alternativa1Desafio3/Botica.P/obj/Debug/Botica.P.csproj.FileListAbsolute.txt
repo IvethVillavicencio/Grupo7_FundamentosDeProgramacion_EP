@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Botica.P\Botica.P\bin\Debug\Botica.P.exe.config
+C:\Users\Admin\source\repos\Botica.P\Botica.P\bin\Debug\Botica.P.exe
+C:\Users\Admin\source\repos\Botica.P\Botica.P\bin\Debug\Botica.P.pdb
+C:\Users\Admin\source\repos\Botica.P\Botica.P\obj\Debug\Botica.P.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Botica.P\Botica.P\obj\Debug\Botica.P.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Botica.P\Botica.P\obj\Debug\Botica.P.exe
+C:\Users\Admin\source\repos\Botica.P\Botica.P\obj\Debug\Botica.P.pdb

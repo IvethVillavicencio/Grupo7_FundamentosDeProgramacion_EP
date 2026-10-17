@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Botica.P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|c:\\users\\admin\\source\\repos\\botica.p\\botica.p\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|solutionrelative:botica.p\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|c:\\users\\admin\\source\\repos\\botica.p\\botica.p\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|solutionrelative:botica.p\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|c:\\users\\admin\\source\\repos\\botica.p\\botica.p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|solutionrelative:botica.p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|c:\\users\\admin\\source\\repos\\botica.p\\botica.p\\listaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|solutionrelative:botica.p\\listaventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|c:\\users\\admin\\source\\repos\\botica.p\\botica.p\\listaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|solutionrelative:botica.p\\listaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|c:\\users\\admin\\source\\repos\\botica.p\\botica.p\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|solutionrelative:botica.p\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|c:\\users\\admin\\source\\repos\\botica.p\\botica.p\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B22F5CC-543A-4B60-AB0D-FA8F10D92DCC}|Botica.P\\Botica.P.csproj|solutionrelative:botica.p\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\Venta.cs",
+              "RelativeDocumentMoniker": "Botica.P\\Venta.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\Venta.cs",
+              "RelativeToolTip": "Botica.P\\Venta.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:35:02.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "Botica.P\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\DetalleVenta.cs",
+              "RelativeToolTip": "Botica.P\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:34:50.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\Producto.cs",
+              "RelativeDocumentMoniker": "Botica.P\\Producto.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\Producto.cs",
+              "RelativeToolTip": "Botica.P\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:34:15.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\Nodo.cs",
+              "RelativeDocumentMoniker": "Botica.P\\Nodo.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\Nodo.cs",
+              "RelativeToolTip": "Botica.P\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:34:27.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\ListaProductos.cs",
+              "RelativeDocumentMoniker": "Botica.P\\ListaProductos.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\ListaProductos.cs",
+              "RelativeToolTip": "Botica.P\\ListaProductos.cs",
+              "ViewState": "AgIAAHkBAAAAAAAAAAAcwJkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:34:38.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListaVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\ListaVentas.cs",
+              "RelativeDocumentMoniker": "Botica.P\\ListaVentas.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\ListaVentas.cs",
+              "RelativeToolTip": "Botica.P\\ListaVentas.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAIwPcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:35:12.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\Program.cs",
+              "RelativeDocumentMoniker": "Botica.P\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Botica.P\\Botica.P\\Program.cs",
+              "RelativeToolTip": "Botica.P\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:33:41.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
